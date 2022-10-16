@@ -1,0 +1,170 @@
+<html>
+    <head>
+        <title>УЈП</title>
+    </head>
+    <body>
+        <h1><img src="download.png" width="240">ПРИЈАВА <p><strong>За вработување во Управа за јавни приходи</strong></p></h1>
+        
+        
+        <hr />
+
+        <p>Број на оглас <input type="number" min="0" max="100">  <input type="number" min="0" max="100">  / 
+            <input type="number" min="0" max="100"> 
+            <input type="number" min="0" max="100"> 
+            <input type="number" min="0" max="100"> 
+            <input type="number" min="0" max="100"> </p> 
+
+            
+
+                <table>
+
+             
+              <tr>
+                <td colspan="5">Реден број на работно
+                    место за кое аплицирате</td>
+                    <td colspan="16"> <input type="text" placeholder="Реден број на работно место за кое аплицирате"></td>
+                    <td>Датум и 
+                        број на 
+                        прием <input type="date"> </td>
+                
+            </tr>
+            </table>
+        
+               
+               
+
+
+
+                <hr />
+            
+               <h1> Лични податоци </h1>
+               <hr />
+
+               <p>  Име и Презиме  <input type="text"  /> </p>
+                
+            <p>Датум на раѓање <input type="date"  /> 
+
+                Пол <input name="Машко" type="checkbox" value="Машко" />
+                <label  for="Машко">Машко</label>
+                <input name="Женско" type="checkbox" value="Женско" /> 
+                <label  for="Женско">Женско</label> 
+
+
+                Државјанин на РМ<input name="Да" type="checkbox" value="Да" />
+                <label for="Да">Да</label>
+                <input name="Не" type="checkbox" value="Не" /> 
+                <label  for="Не">Не</label> </p>
+
+                <p>Адреса <input type="text"  />  </p>
+
+                <p>Контакт   Телефон<input type="text"  /> Е-пошта <input type="text"  /> </p>
+
+
+
+
+
+                <hr />
+
+
+
+                <h1> Образование</h1>
+                <hr />
+
+               <p>  Образовна Институција  <input type="text"  /> </p>
+
+               <p>  Насока на завршено 
+                образование / смер  <input type="text"  /> </p>
+                
+            
+
+               <p>Степен на образование 
+                 
+                <input name="IV" type="checkbox"name value="IV" />
+                <label for="IV"> IV </label>
+                <input name="VI" type="checkbox"name value="VI" /> 
+                <label for="VI">VI</label> 
+                <input name="VII/2" type="checkbox"name value="VII/2" />
+                <label for="VII/2">VII/2</label>
+                <input name="VIII" type="checkbox"name value="VIII" /> 
+                <label for="VIII">VIII</label>
+                <label for="КТС">ЕКТС</label>
+                <input name="ЕКТС" type="checkbox"name value="ЕКТС" /> 
+                КРЕДИТИ <input type="number" min="0" max="100"></p>
+
+
+
+
+             <p> Просечна оценка <input type="number" min="0" max="100"> 
+            <input type="number" min="0" max="100"> </p>
+
+            <hr />
+
+            <h1>Работно искуство</h1>
+            <hr />
+               <p>Работно искуство <input name="Да" type="checkbox" value="Да">
+                <label for="Да">Да</label>
+                
+                
+                <input name="Не" type="checkbox"  value="Не">
+                <label for="Не">Не</label> </p>
+
+
+                <p>Вкупен работен стаж   <input type="number" min="0" max="100">Години 
+                    <input type="number" min="0" max="100"> месеци 
+                    Работни искуства во струката <input type="number" min="0" max="100">  
+                    Години <input type="number" min="0" max="100"> 
+                    Месеци 
+                </p> 
+
+
+                    <p>Област во која е стекнато 
+                        работното искуствo  <input type="text"> 
+                    </p>
+                        
+                        <hr />
+                        <h1>Вештини</h1>
+                        <hr />
+                        <table border="4">
+                        
+
+                        <tr>
+                        <td>Познавање на јазици  </td>
+                        <td> <input type="text"> </td>
+                        </tr>
+
+                        <tr>
+                        <td>Комјутерски вештини </td>
+                        <td><input type="text"></td>
+                        </tr>
+                        <tr>
+                        <td>Возачка дозвола (категорија) </td>
+                        <td><input type="text"></td>
+                        </tr>
+                        <tr>
+                        <td>Други персонални способности и вештини </td> <td><input type="text"></td> </tr>
+                        
+                        </tr>
+                    
+                        </table>
+                        <hr />
+
+                        <h1>Изјава</h1>
+                        <table border> 
+                            <tr>
+                                <td>Изјавувам под морална, материјална и кривична одговорност, дека податоците наведени во оваа пријава се веродостојни и дека на барање на 
+                                Управата за јавни приходи ќе доставам докази, во оригинал или копија заверена кај нотар.
+                                Се согласувам личните податоци наведени во пријавата да се користат исклучиво за цели на постапката на вработување во Управата за јавни 
+                                приходи.</td>
+                            </tr>
+                        </table>
+
+                        <h1>Податоци за подносителот на изјавата</h1>
+                        <p>Потпис <input type="text"> Датум на поднесување <input type="date"> </p>
+
+                        <p><i> Образецот е објавен на веб страницата на УЈП <a href="http://www.ujp.gov.mk/s/obrasci/opis/105"> http://www.ujp.gov.mk/s/obrasci/opis/105</a> и важи од 17.06.2013 година.
+                        </i></p>
+
+            
+
+    </body>
+</html>
